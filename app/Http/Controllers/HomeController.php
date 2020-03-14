@@ -7,20 +7,27 @@ use Illuminate\Http\Request;
 
 class HomeController extends Controller
 {
-
-    protected $products;
+    protected  $product;
 
     /**
-     * HomeController constructor.
-     * @param ProductRepository $products
+     * Create a new controller instance.
+     *
+     * @param ProductRepository $product
      */
-    public function __construct(ProductRepository $products)
+    public function __construct(ProductRepository $product)
     {
-        $this->products = $products;
+        //$this->middleware('auth');
+        $this->product = $product;
     }
 
+    /**
+     * Show the application dashboard.
+     *
+     * @return \Illuminate\Contracts\Support\Renderable
+     */
     public function index()
     {
-        return $this->products->getAllProducts();
+        $products = $this->product->getAllProducts();
+        return view('home', compact('products'));
     }
 }
