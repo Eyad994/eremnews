@@ -20,7 +20,7 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row" style="margin-top: 10%">
 
             <div class="col-xl-12 order-xl-0">
                 <div class="block">
@@ -31,7 +31,7 @@
                                     <div class="col-12 mb-3">
                                         <a target="_blank" class="img-link img-link-zoom-in img-lightbox"
                                            href="/images/{{$product->product_image}}">
-                                            <img class="img-fluid" src="/images/{{$product->product_image}}" alt="">
+                                            <img class="img-fluid" src="/images/{{$product->product_image}}" style="height: 500px" alt="">
                                         </a>
                                     </div>
 

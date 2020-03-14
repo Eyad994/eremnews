@@ -2,41 +2,51 @@
 
 @section('content')
 
-    @if(auth()->check())
-    <div class="col-md-12">
-        <a href="{{ route('product.create') }}" class="btn btn-success btn1">Add Product</a>
-    </div>
-    @endif
-
-    <div class="container">
+        <div class="container-fluid">
 
 
-        <div class="row">
-
-            @foreach($products as $product)
-
-                <div class="col-lg-4 d-flex js-appear-enabled animated fadeIn" data-toggle="appear" data-offset="50"
-                     data-class="animated fadeIn" style="padding-top: 15px">
-                    <a class="block block-link-pop" href="{{ route('product.show', [$product->id]) }}">
-                        <div class="card">
-                            <img class="card-img-top" src="images\{{ $product->product_image }}" alt="">
-                            <div class="card-body">
-                                <h5 class="card-title"><a href="{{ route('product.show', [$product->id]) }}" style="text-transform: capitalize">{{ $product->product_name }}</a></h5>
-                                <hr>
-                                <a class="card-text">{!! $product->product_desc !!}</a>
-                            </div>
-                            <div class="card-footer">
-                                <small class="text-muted">Created By: <b>{{ $product->user->name }}</b>, {{ \Carbon\Carbon::createFromFormat('Y-m-d H:i:s', $product->created_at)->diffForHumans() }} </small>
-
-                            </div>
-                        </div>
-                    </a>
+            <div class="row page-titles" style="    margin-top: -24px;">
+                <div class="col-lg-2"></div>
+                <div class="col-lg-8"> <h4 class="text-themecolor">Products</h4></div>
+                <div class="col-lg-2"><a href="{{ route('product.create') }}" style="color: white;width: 150px" class="btn btn-info d-none d-lg-block m-l-15"><i class="fa fa-plus-circle"></i> Create New</a>
                 </div>
-            @endforeach
+            </div>
+
+            <div class="row">
+                <div class="col-lg-2"></div>
+                <div class="col-lg-8">
+                    <div class="row">
+                        @foreach($products as $product)
+                            <div class="col-lg-3 col-md-6">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <div class="product-img" >
+                                            <a href="{{ route('product.show', [$product->id]) }}"><img style="max-width: 100% !important;min-width: 100% !important;height: 250px;" src="images\{{ $product->product_image }}" width="100%"></a>
+                                        </div>
+                                        <div class="product-text">
+                                            <span class="pro-price bg-success">${{ $product->product_price }}</span>
+                                            <a href="#"><h5 style="color: blue;text-transform: capitalize; text-decoration: underline;" class="card-title m-b-0">{{ $product->product_name }}</h5></a>
+                                            <hr>
+                                            <div  style="height: 150px" class="text-muted db">{!! $product->product_desc !!}</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        @endforeach
+                    </div>
+                </div>
+                <div class="col-lg-2"></div>
+            </div>
+
 
         </div>
-
+        <div style="height: 100px">
             {{ $products->onEachSide(1)->links() }}
+        </div>
 
-    </div>
+<footer class="footer" style="margin-left: 0px !important;">
+    © 2019 Eliteadmin by themedesigner.in
+</footer>
+
+
 @endsection

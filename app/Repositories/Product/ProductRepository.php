@@ -10,7 +10,7 @@ class ProductRepository implements ProductRepositoryInterface
 
     public function getAllProducts()
     {
-        return Product::paginate(6);
+        return Product::paginate(8);
     }
 
     public function getProduct($product_id)
