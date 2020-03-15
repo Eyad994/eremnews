@@ -2,484 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1164767-854c-4ff8-bee9-a3b525400e2d" name="Default Changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/fonts/Material-Design-Iconic-Font.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/fonts/Simple-Line-Icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/fonts/icomoon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/fonts/materialdesignicons-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/fonts/themify.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/1584219962.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/bootstrap-switch.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/breadcrumb-page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/chat-app-page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/contact-app-page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/dashboard1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/dashboard2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/dashboard3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/dashboard4 - Copy.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/dashboard4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/easy-pie-chart.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/ecommerce.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/error-pages.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/file-upload.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/float-chart.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/floating-label.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/footable-page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/form-icheck.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/google-vector-map.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/icon-page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/inbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/login-register-lock.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/other-pages.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/pricing-page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/progressbar-page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/register3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/ribbon-page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/stylish-tooltip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/tab-page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/timeline-vertical-horizontal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/ui-bootstrap-page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/user-card.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/pages/widget-page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/style.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/css/variable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/dashboard1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/dashboard2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/dashboard3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/dashboard4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/ecom-dashboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/pages/bootstrap-table.init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/pages/chat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/pages/flot-data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/pages/footable-init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/pages/jasny-bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/pages/jquery.PrintArea.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/pages/jsgrid-init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/pages/mask.init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/pages/morris-data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/pages/toastr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/pages/validation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/pages/widget-charts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/pages/widget-data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/perfect-scrollbar.jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/sidebarmenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/js/waves.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/colors/blue-dark.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/colors/blue.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/colors/default-dark.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/colors/default.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/colors/green-dark.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/colors/green.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/colors/megna-dark.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/colors/megna.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/colors/purple-dark.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/colors/purple.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/colors/red-dark.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/colors/red.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/core/animation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/core/app.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/core/buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/core/core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/core/custom-iconmind.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/core/form-pages.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/core/header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/core/other-common.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/core/pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/core/perfect-scrollbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/core/right-sidebar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/core/scafholding.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/core/sidebar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/core/spinner.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/core/table-pages.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/core/theme-settings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/custom.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/bootstrap-switch.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/breadcrumb-page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/chat-app-page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/contact-app-page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/dashboard1.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/dashboard2.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/dashboard3.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/dashboard4.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/easy-pie-chart.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/ecommerce.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/error-pages.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/file-upload.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/float-chart.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/floating-label.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/footable-page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/form-icheck.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/google-vector-map.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/icon-page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/inbox.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/login-register-lock.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/other-pages.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/pricing-page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/progressbar-page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/register3.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/ribbon-page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/stylish-tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/tab-page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/timeline-vertical-horizontal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/ui-bootstrap-page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/user-card.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/pages/widget-page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/responsive.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/variable.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/activity.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/blog.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/calendar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/carousel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/chat-widget.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/comment.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/common-widget.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/contact.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/feed.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/msg-box.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/news-slide.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/product-review.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/profile.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/social.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/steamline.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/to-do.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/topbar-mail.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/weather-widget.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dist/scss/widgets/widgets.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Repositories/Product/ProductRepository.php" afterPath="$PROJECT_DIR$/app/Repositories/Product/ProductRepository.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/.htaccess" afterPath="$PROJECT_DIR$/public/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/main/app.js" afterPath="$PROJECT_DIR$/public/_es6/main/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/main/bootstrap.js" afterPath="$PROJECT_DIR$/public/_es6/main/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/main/modules/helpers.js" afterPath="$PROJECT_DIR$/public/_es6/main/modules/helpers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/main/modules/template.js" afterPath="$PROJECT_DIR$/public/_es6/main/modules/template.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/main/modules/tools.js" afterPath="$PROJECT_DIR$/public/_es6/main/modules/tools.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/be_comp_calendar.js" afterPath="$PROJECT_DIR$/public/_es6/pages/be_comp_calendar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/be_comp_charts.js" afterPath="$PROJECT_DIR$/public/_es6/pages/be_comp_charts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/be_comp_dialogs.js" afterPath="$PROJECT_DIR$/public/_es6/pages/be_comp_dialogs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/be_comp_image_cropper.js" afterPath="$PROJECT_DIR$/public/_es6/pages/be_comp_image_cropper.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/be_comp_maps_google.js" afterPath="$PROJECT_DIR$/public/_es6/pages/be_comp_maps_google.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/be_forms_validation.js" afterPath="$PROJECT_DIR$/public/_es6/pages/be_forms_validation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/be_forms_wizard.js" afterPath="$PROJECT_DIR$/public/_es6/pages/be_forms_wizard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/be_pages_dashboard.js" afterPath="$PROJECT_DIR$/public/_es6/pages/be_pages_dashboard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/be_pages_ecom_dashboard.js" afterPath="$PROJECT_DIR$/public/_es6/pages/be_pages_ecom_dashboard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/be_pages_generic_contact.js" afterPath="$PROJECT_DIR$/public/_es6/pages/be_pages_generic_contact.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/be_tables_datatables.js" afterPath="$PROJECT_DIR$/public/_es6/pages/be_tables_datatables.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/be_ui_animations.js" afterPath="$PROJECT_DIR$/public/_es6/pages/be_ui_animations.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/be_ui_icons.js" afterPath="$PROJECT_DIR$/public/_es6/pages/be_ui_icons.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/be_ui_progress.js" afterPath="$PROJECT_DIR$/public/_es6/pages/be_ui_progress.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/op_auth_lock.js" afterPath="$PROJECT_DIR$/public/_es6/pages/op_auth_lock.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/op_auth_reminder.js" afterPath="$PROJECT_DIR$/public/_es6/pages/op_auth_reminder.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/op_auth_signin.js" afterPath="$PROJECT_DIR$/public/_es6/pages/op_auth_signin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/op_auth_signup.js" afterPath="$PROJECT_DIR$/public/_es6/pages/op_auth_signup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_es6/pages/op_coming_soon.js" afterPath="$PROJECT_DIR$/public/_es6/pages/op_coming_soon.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/custom/_main.scss" afterPath="$PROJECT_DIR$/public/_scss/custom/_main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/custom/_variables.scss" afterPath="$PROJECT_DIR$/public/_scss/custom/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/main.scss" afterPath="$PROJECT_DIR$/public/_scss/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_badge.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_badge.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_block.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_block.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_breadcrumb.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_breadcrumb.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_buttons.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_buttons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_custom-forms.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_custom-forms.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_dropdown.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_dropdown.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_forms.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_forms.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_grid.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_grid.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_header.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_hero.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_hero.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_images.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_images.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_input-group.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_input-group.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_item.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_item.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_layout-variations.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_layout-variations.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_layout.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_layout.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_lists.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_lists.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_mixins.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_modal.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_modal.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_nav-main.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_nav-main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_nav.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_nav.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_overlay.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_overlay.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_page-loader.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_page-loader.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_pagination.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_pagination.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_print.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_print.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_reboot.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_reboot.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_ribbon.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_ribbon.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_rtl-support.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_rtl-support.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_side-overlay.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_side-overlay.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_sidebar.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_sidebar.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_tables.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_tables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_timeline.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_timeline.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_transitions.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_transitions.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_type.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_type.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_utilities.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_utilities.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_variables-bootstrap.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_variables-bootstrap.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_variables-themes.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_variables-themes.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/_variables.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/mixins/_background-variant.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/mixins/_background-variant.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/mixins/_buttons.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/mixins/_buttons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/mixins/_content.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/mixins/_content.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/mixins/_custom-forms.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/mixins/_custom-forms.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/mixins/_ribbon.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/mixins/_ribbon.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/mixins/_text-emphasis.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/mixins/_text-emphasis.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/mixins/_theme.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/mixins/_theme.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/themes/_base.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/themes/_base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/themes/amethyst.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/themes/amethyst.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/themes/city.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/themes/city.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/themes/flat.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/themes/flat.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/themes/modern.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/themes/modern.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/themes/smooth.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/themes/smooth.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/utilities/_background.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/utilities/_background.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/utilities/_borders.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/utilities/_borders.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/utilities/_display.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/utilities/_display.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/utilities/_effects.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/utilities/_effects.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/utilities/_flex.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/utilities/_flex.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/oneui/utilities/_text.scss" afterPath="$PROJECT_DIR$/public/_scss/oneui/utilities/_text.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_animate.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_animate.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_bootstrap-colorpicker.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_bootstrap-colorpicker.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_bootstrap-datepicker.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_bootstrap-datepicker.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_ckeditor.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_ckeditor.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_datatables.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_datatables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_dropzone.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_dropzone.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_easy-pie-chart.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_easy-pie-chart.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_flatpickr.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_flatpickr.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_fullcalendar.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_fullcalendar.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_ion-range-slider.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_ion-range-slider.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_jquery-sparkline.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_jquery-sparkline.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_jvector-map.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_jvector-map.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_select2.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_select2.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_simple-line-icons.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_simple-line-icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_simplebar.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_simplebar.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_simplemde.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_simplemde.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_slick.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_slick.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_scss/vendor/_summernote.scss" afterPath="$PROJECT_DIR$/public/_scss/vendor/_summernote.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/app.css" afterPath="$PROJECT_DIR$/public/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/simple-line-icons/Simple-Line-Icons.svg" afterPath="$PROJECT_DIR$/public/fonts/simple-line-icons/Simple-Line-Icons.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.php" afterPath="$PROJECT_DIR$/public/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app.js" afterPath="$PROJECT_DIR$/public/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/pages/be_pages_ecom_dashboard.min.js" afterPath="$PROJECT_DIR$/public/js/pages/be_pages_ecom_dashboard.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/bootstrap-colorpicker/js/bootstrap-colorpicker.js" afterPath="$PROJECT_DIR$/public/js/plugins/bootstrap-colorpicker/js/bootstrap-colorpicker.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/chart.js/Chart.bundle.js" afterPath="$PROJECT_DIR$/public/js/plugins/chart.js/Chart.bundle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/chart.js/Chart.js" afterPath="$PROJECT_DIR$/public/js/plugins/chart.js/Chart.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/CHANGES.md" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/CHANGES.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/LICENSE.md" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/LICENSE.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/contents.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/contents.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/lang/_translationstatus.txt" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/lang/_translationstatus.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/autocomplete/skins/default.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/autocomplete/skins/default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/balloonpanel/skins/kama/balloonpanel.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/balloonpanel/skins/kama/balloonpanel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/balloonpanel/skins/moono-lisa/balloonpanel.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/balloonpanel/skins/moono-lisa/balloonpanel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/balloonpanel/skins/moono/balloonpanel.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/balloonpanel/skins/moono/balloonpanel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/balloontoolbar/skins/default.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/balloontoolbar/skins/default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/balloontoolbar/skins/kama/balloontoolbar.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/balloontoolbar/skins/kama/balloontoolbar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/balloontoolbar/skins/moono-lisa/balloontoolbar.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/balloontoolbar/skins/moono-lisa/balloontoolbar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/balloontoolbar/skins/moono/balloontoolbar.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/balloontoolbar/skins/moono/balloontoolbar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/CHANGES.md" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/CHANGES.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/README.ru.md" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/README.ru.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/highlight.pack.js" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/highlight.pack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/arta.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/arta.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/ascetic.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/ascetic.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.dark.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.dark.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.light.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.light.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.dark.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.dark.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.light.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.light.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.dark.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.dark.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.light.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.light.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.dark.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.dark.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.light.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.light.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.dark.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.dark.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.light.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.light.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/brown_paper.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/brown_paper.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/dark.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/dark.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/default.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/docco.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/docco.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/far.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/far.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/foundation.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/foundation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/github.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/github.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/googlecode.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/googlecode.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/idea.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/idea.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/ir_black.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/ir_black.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/magula.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/magula.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/mono-blue.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/mono-blue.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai_sublime.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai_sublime.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/obsidian.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/obsidian.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.dark.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.dark.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.light.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.light.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/pojoaque.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/pojoaque.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/railscasts.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/railscasts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/rainbow.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/rainbow.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/school_book.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/school_book.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_dark.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_dark.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_light.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_light.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/sunburst.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/sunburst.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-blue.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-blue.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-bright.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-bright.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-eighties.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-eighties.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/vs.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/vs.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/xcode.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/xcode.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/zenburn.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/codesnippet/lib/highlight/styles/zenburn.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/colordialog/dialogs/colordialog.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/colordialog/dialogs/colordialog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/copyformatting/styles/copyformatting.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/copyformatting/styles/copyformatting.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/devtools/lang/_translationstatus.txt" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/devtools/lang/_translationstatus.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/easyimage/styles/easyimage.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/easyimage/styles/easyimage.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/emoji/skins/default.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/emoji/skins/default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/imagebase/styles/imagebase.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/imagebase/styles/imagebase.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/preview/preview.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/preview/preview.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/scayt/LICENSE.md" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/scayt/LICENSE.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/scayt/dialogs/dialog.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/scayt/dialogs/dialog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/scayt/dialogs/toolbar.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/scayt/dialogs/toolbar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/tableselection/styles/tableselection.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/tableselection/styles/tableselection.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/templates/dialogs/templates.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/templates/dialogs/templates.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/uicolor/dialogs/uicolor.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/uicolor/dialogs/uicolor.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/uicolor/lang/_translationstatus.txt" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/uicolor/lang/_translationstatus.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/wsc/LICENSE.md" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/wsc/LICENSE.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/wsc/dialogs/ciframe.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/wsc/dialogs/ciframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/wsc/dialogs/wsc.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/wsc/dialogs/wsc.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/css/samples.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/css/samples.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/index.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/js/sample.js" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/js/sample.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/ajax.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/ajax.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/api.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/api.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/appendto.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/appendto.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/assets/outputxhtml/outputxhtml.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/assets/outputxhtml/outputxhtml.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/assets/posteddata.php" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/assets/posteddata.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/autocomplete/customview.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/autocomplete/customview.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/autocomplete/smiley.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/autocomplete/smiley.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/autogrow/autogrow.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/autogrow/autogrow.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/bbcode/bbcode.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/bbcode/bbcode.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/codesnippet/codesnippet.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/codesnippet/codesnippet.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/datafiltering.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/datafiltering.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/devtools/devtools.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/devtools/devtools.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/dialog/assets/my_dialog.js" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/dialog/assets/my_dialog.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/dialog/dialog.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/dialog/dialog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/divarea/divarea.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/divarea/divarea.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/divreplace.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/divreplace.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/docprops/docprops.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/docprops/docprops.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/easyimage/easyimage.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/easyimage/easyimage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/emoji/emoji.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/emoji/emoji.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/enterkey/enterkey.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/enterkey/enterkey.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/htmlwriter/outputforflash.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/htmlwriter/outputforflash.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/htmlwriter/outputhtml.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/htmlwriter/outputhtml.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/image2/image2.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/image2/image2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/index.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/inlineall.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/inlineall.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/inlinebycode.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/inlinebycode.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/inlinetextarea.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/inlinetextarea.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/jquery.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/jquery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/magicline/magicline.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/magicline/magicline.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/mathjax/mathjax.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/mathjax/mathjax.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/mentions/mentions.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/mentions/mentions.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/placeholder/placeholder.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/placeholder/placeholder.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/readonly.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/readonly.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/replacebyclass.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/replacebyclass.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/replacebycode.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/replacebycode.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/sample.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/sample.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/sample.js" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/sample.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/sample_posteddata.php" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/sample_posteddata.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/sharedspace/sharedspace.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/sharedspace/sharedspace.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/sourcedialog/sourcedialog.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/sourcedialog/sourcedialog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/stylesheetparser/assets/sample.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/stylesheetparser/assets/sample.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/stylesheetparser/stylesheetparser.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/stylesheetparser/stylesheetparser.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/tabindex.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/tabindex.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/tableresize/tableresize.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/tableresize/tableresize.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/toolbar/toolbar.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/toolbar/toolbar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/uicolor.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/uicolor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/uicolor/uicolor.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/uicolor/uicolor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/uilanguages.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/uilanguages.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/wysiwygarea/fullpage.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/wysiwygarea/fullpage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/xhtmlstyle.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/old/xhtmlstyle.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/toolbarconfigurator/css/fontello.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/toolbarconfigurator/css/fontello.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/toolbarconfigurator/font/LICENSE.txt" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/toolbarconfigurator/font/LICENSE.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/toolbarconfigurator/index.html" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/toolbarconfigurator/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/dialog.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/dialog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/dialog_ie.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/dialog_ie.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/dialog_ie7.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/dialog_ie7.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/dialog_ie8.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/dialog_ie8.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/dialog_iequirks.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/dialog_iequirks.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/editor.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/editor.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/editor_ie.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/editor_ie.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/editor_ie7.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/editor_ie7.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/editor_ie8.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/editor_ie8.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/editor_iequirks.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/editor_iequirks.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/readme.md" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/kama/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/dialog.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/dialog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/dialog_ie.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/dialog_ie.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/dialog_ie8.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/dialog_ie8.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/dialog_iequirks.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/dialog_iequirks.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/editor.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/editor.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/editor_gecko.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/editor_gecko.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/editor_ie.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/editor_ie.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/editor_ie8.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/editor_ie8.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/editor_iequirks.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/editor_iequirks.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/readme.md" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono-lisa/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/dialog.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/dialog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/dialog_ie.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/dialog_ie.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/dialog_ie7.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/dialog_ie7.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/dialog_ie8.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/dialog_ie8.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/dialog_iequirks.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/dialog_iequirks.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/editor.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/editor.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/editor_gecko.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/editor_gecko.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/editor_ie.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/editor_ie.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/editor_ie7.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/editor_ie7.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/editor_ie8.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/editor_ie8.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/editor_iequirks.css" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/editor_iequirks.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/readme.md" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/skins/moono/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/ckeditor/styles.js" afterPath="$PROJECT_DIR$/public/js/plugins/ckeditor/styles.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/flatpickr/flatpickr.js" afterPath="$PROJECT_DIR$/public/js/plugins/flatpickr/flatpickr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/flatpickr/l10n/index.js" afterPath="$PROJECT_DIR$/public/js/plugins/flatpickr/l10n/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/flatpickr/plugins/confirmDate/confirmDate.js" afterPath="$PROJECT_DIR$/public/js/plugins/flatpickr/plugins/confirmDate/confirmDate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/flatpickr/plugins/monthSelect/index.js" afterPath="$PROJECT_DIR$/public/js/plugins/flatpickr/plugins/monthSelect/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/fullcalendar/fullcalendar.js" afterPath="$PROJECT_DIR$/public/js/plugins/fullcalendar/fullcalendar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/fullcalendar/gcal.js" afterPath="$PROJECT_DIR$/public/js/plugins/fullcalendar/gcal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/jquery-bootstrap-wizard/bs4/jquery.bootstrap.wizard.js" afterPath="$PROJECT_DIR$/public/js/plugins/jquery-bootstrap-wizard/bs4/jquery.bootstrap.wizard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/jquery-bootstrap-wizard/bs4/jquery.bootstrap.wizard.min.js" afterPath="$PROJECT_DIR$/public/js/plugins/jquery-bootstrap-wizard/bs4/jquery.bootstrap.wizard.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/jquery-validation/additional-methods.js" afterPath="$PROJECT_DIR$/public/js/plugins/jquery-validation/additional-methods.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins/jquery-validation/jquery.validate.js" afterPath="$PROJECT_DIR$/public/js/plugins/jquery-validation/jquery.validate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/robots.txt" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/test.json" afterPath="$PROJECT_DIR$/public/test.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/web.config" afterPath="$PROJECT_DIR$/public/web.config" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/js/app.js" afterPath="$PROJECT_DIR$/resources/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" afterPath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/en/auth.php" afterPath="$PROJECT_DIR$/resources/lang/en/auth.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/en/pagination.php" afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/en/passwords.php" afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/en/validation.php" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/sass/_variables.scss" afterPath="$PROJECT_DIR$/resources/sass/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/sass/app.scss" afterPath="$PROJECT_DIR$/resources/sass/app.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/home.blade.php" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/partials/errors.blade.php" afterPath="$PROJECT_DIR$/resources/views/partials/errors.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/product/create.blade.php" afterPath="$PROJECT_DIR$/resources/views/product/create.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/product/show.blade.php" afterPath="$PROJECT_DIR$/resources/views/product/show.blade.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/Repository.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Repository.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/ProductFacotry.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/ProductFacotry.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -488,27 +16,34 @@
   <component name="ComposerSettings" doNotAsk="true">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-              <folding />
+            <state relative-caret-position="529">
+              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.blade.php" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="27" column="78" lean-forward="false" selection-start-line="27" selection-start-column="78" selection-end-line="27" selection-end-column="78" />
+            <state relative-caret-position="127">
+              <caret line="29" column="166" selection-start-line="29" selection-start-column="166" selection-end-line="29" selection-end-column="166" />
               <folding>
-                <element signature="e#1757#1778#0#HTML" expanded="true" />
+                <element signature="e#1519#1594#0#HTML" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/factories/ProductFacotry.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -541,7 +76,6 @@
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/public/css/oneui.css" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
-        <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/public/css/app.css" />
         <option value="$PROJECT_DIR$/app/Repositories/Category/CategoryRepositoryInterface.php" />
@@ -550,284 +84,144 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" />
         <option value="$PROJECT_DIR$/app/Models/Product.php" />
         <option value="$PROJECT_DIR$/app/Http/Requests/ProductRequest.php" />
-        <option value="$PROJECT_DIR$/database/factories/ProductFacotry.php" />
         <option value="$PROJECT_DIR$/resources/views/product/create.blade.php" />
         <option value="$PROJECT_DIR$/database/seeds/CategorySeeder.php" />
         <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
         <option value="$PROJECT_DIR$/resources/views/product/show.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
         <option value="$PROJECT_DIR$/app/Repositories/Product/ProductRepository.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/database/factories/ProductFacotry.php" />
         <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
-  </component>
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+  <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
-      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
-      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
-      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
-      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
-      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
-      <path value="$PROJECT_DIR$/vendor/composer" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
-      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
       <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
-      <path value="$PROJECT_DIR$/vendor/symfony/process" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
-      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
-      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
-      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
-      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
-      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
-      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
       <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
-      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
-      <path value="$PROJECT_DIR$/vendor/symfony/console" />
       <path value="$PROJECT_DIR$/vendor/symfony/finder" />
-      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
-      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
-      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
-      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
-      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
       <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
       <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
-      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
       <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
       <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
       <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
-      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
-      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
-      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
-      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
       <path value="$PROJECT_DIR$/vendor/laravel/framework" />
-      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
       <path value="$PROJECT_DIR$/vendor/league/flysystem" />
-      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
-      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
-      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
-      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
-      <path value="$PROJECT_DIR$/vendor/opis/closure" />
-      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
-      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
-      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
-      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
-      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
-      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
-      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
       <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
-      <path value="$PROJECT_DIR$/vendor/psr/container" />
-      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
       <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
-      <path value="$PROJECT_DIR$/vendor/psr/log" />
-      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
-      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="305" />
+    <option name="y" value="39" />
+    <option name="width" value="1013" />
+    <option name="height" value="721" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eremnews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eremnews" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eremnews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eremnews" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eremnews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eremnews" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eremnews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eremnews" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eremnews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eremnews" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eremnews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eremnews" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Repositories" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Product" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eremnews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eremnews" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Repositories" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eremnews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eremnews" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="eremnews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eremnews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eremnews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eremnews" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eremnews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eremnews" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="factories" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Laravel Projects/cms" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -856,83 +250,19 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
-      <PhpTestRunnerSettings />
-      <method />
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
-      <BehatRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
-      <PhpTestRunnerSettings />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <envs />
-      <method />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
-    <configuration default="false" name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner scope="XML" />
-      <method />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="PHPUnit.phpunit.xml" />
-    </list>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -951,133 +281,47 @@
       <workItem from="1584092458271" duration="8111000" />
       <workItem from="1584178721246" duration="255000" />
       <workItem from="1584223481919" duration="782000" />
+      <workItem from="1584258222418" duration="549000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26430000" />
+    <option name="totallyTimeSpent" value="26979000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22230652" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.23287672" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/Repositories/Product/ProductRepository.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/product/show.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="53" lean-forward="false" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Repositories/Product/ProductRepositoryInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Repositories/Product/ProductRepository.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/factories/ProductFacotry.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/test.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -1092,23 +336,19 @@
     <entry file="file://$PROJECT_DIR$/app/Models/User.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Models/Category.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/_es6/main/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -1120,7 +360,7 @@
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -1141,43 +381,37 @@
     <entry file="file://$PROJECT_DIR$/public/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2919">
-          <caret line="1095" column="16" lean-forward="false" selection-start-line="1095" selection-start-column="16" selection-end-line="1095" selection-end-column="16" />
+          <caret line="1095" column="16" selection-start-line="1095" selection-start-column="16" selection-end-line="1095" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/oneui.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
-          <caret line="605" column="22" lean-forward="false" selection-start-line="605" selection-start-column="22" selection-end-line="605" selection-end-column="22" />
+          <caret line="605" column="22" selection-start-line="605" selection-start-column="22" selection-end-line="605" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Repositories/Category/CategoryRepositoryInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="0" column="2266" lean-forward="false" selection-start-line="0" selection-start-column="2266" selection-end-line="0" selection-end-column="2266" />
+          <caret column="2266" selection-start-column="2266" selection-end-column="2266" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/oneui.app.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/oneui.core.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-663">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
+        <state relative-caret-position="-663" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/partials/errors.blade.php">
@@ -1197,7 +431,7 @@
     <entry file="file://$PROJECT_DIR$/app/Repositories/Product/ProductRepositoryInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -1205,7 +439,7 @@
     <entry file="file://$PROJECT_DIR$/database/migrations/2020_03_12_081949_create_categories_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
-          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="32" />
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -1226,23 +460,15 @@
     <entry file="file://$PROJECT_DIR$/app/Http/Requests/ProductRequest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/media/photos/photo2.jpg" />
-    <entry file="file://$PROJECT_DIR$/database/factories/ProductFacotry.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/product/show.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
@@ -1256,21 +482,21 @@
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ProductController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
-          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding />
         </state>
       </provider>
@@ -1278,7 +504,7 @@
     <entry file="file://$PROJECT_DIR$/database/factories/CategoryFactory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding />
         </state>
       </provider>
@@ -1297,16 +523,7 @@
     <entry file="file://$PROJECT_DIR$/public/media/various/ecom_product5.png" />
     <entry file="file://$PROJECT_DIR$/ermnews.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        <state>
           <folding />
         </state>
       </provider>
@@ -1319,18 +536,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Repositories/Product/ProductRepository.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -1338,17 +547,41 @@
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="52" column="42" lean-forward="false" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+          <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.example">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/ProductFacotry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="27" column="78" lean-forward="false" selection-start-line="27" selection-start-column="78" selection-end-line="27" selection-end-column="78" />
+        <state relative-caret-position="127">
+          <caret line="29" column="166" selection-start-line="29" selection-start-column="166" selection-end-line="29" selection-end-column="166" />
           <folding>
-            <element signature="e#1757#1778#0#HTML" expanded="true" />
+            <element signature="e#1519#1594#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -25,9 +25,10 @@
                                         </div>
                                         <div class="product-text">
                                             <span class="pro-price bg-success">${{ $product->product_price }}</span>
-                                            <a href="#"><h5 style="color: blue;text-transform: capitalize; text-decoration: underline;" class="card-title m-b-0">{{ $product->product_name }}</h5></a>
+                                            <a href="{{ route('product.show', [$product->id]) }}"><h5 style="color: blue;text-transform: capitalize; text-decoration: underline;" class="card-title m-b-0">{{ $product->product_name }}</h5></a>
                                             <hr>
-                                            <div  style="height: 150px" class="text-muted db">{!! $product->product_desc !!}</div>
+
+                                            <div  style="height: 150px" class="text-muted db">{{ \Illuminate\Support\Str::limit($product->product_desc, 70, $end="...") }}</div>
                                         </div>
                                     </div>
                                 </div>
